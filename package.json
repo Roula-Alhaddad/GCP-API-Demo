@@ -1,0 +1,17 @@
+{
+  "name": "Ikea_GCP_Demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roula Al Haddad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+	"@google-cloud/datastore": "^4.2.0",
+  },
+  "devDependencies": {},
+  "description": ""
+}
